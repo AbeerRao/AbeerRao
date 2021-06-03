@@ -7,3 +7,8 @@
 - ⚡ Fun fact: Love Pokemon and boxing
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbeerRao)
+[<img align="left" width="400" alt="🦑" src="https://github.com/AbeerRao/AbeerRao/blob/main/metrics.svg">](https://github.com/AbeerRao/AbeerRao)
+
+[<img  width="400" alt="🦑" src= "https://github.com/AbeerRao/AbeerRao/blob/main/metrics.plugin.music.masteredd.svg">](https://github.com/AbeerRao/AbeerRao)
+
+[<img  align = "left" width="400" alt="🦑" src= "https://github.com/AbeerRao/AbeerRao/blob/main/metrics.plugin.people.masteredd.svg">](https://github.com/AbeerRao/AbeerRao)
